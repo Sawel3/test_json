@@ -1,0 +1,8 @@
+{
+  "groupA": [
+    {"team": "Team Alpha", "score": 7},
+    {"team": "Team Bravo", "score": 5},
+    {"team": "Team Charlie", "score": 4},
+    {"team": "Team Delta", "score": 1}
+  ]
+}
